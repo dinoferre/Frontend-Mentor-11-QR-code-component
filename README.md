@@ -1,1 +1,0 @@
-# Frontend-Mentor-11-QR-code-component
